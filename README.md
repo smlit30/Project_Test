@@ -18,11 +18,11 @@ Average salary of teachers in U.S. Dollars.
 
 This is a measurement in each district of how many teachers stay from year over year within the district.  This is taken at the school level and averaged out. 
 
-## 3: Average Administrator Salary
+## 4: Average Administrator Salary
 
 Average salary that the administration makes in the district. 
 
-## 3: Disrict Size
+## 5: Disrict Size
 
 The classifications from district range from 
 -Small 0-1000
