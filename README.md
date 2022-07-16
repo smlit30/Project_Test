@@ -25,8 +25,11 @@ Average salary that the administration makes in the district.
 ## 5: Disrict Size
 
 The classifications from district range from 
+
 -Small 0-1000
+
 -Medium 1001-5000
+
 -Large 5001 and above
 
 ## Results Summary
