@@ -2,7 +2,8 @@
 
 Project Revealing several factors & their impacts and/or correlations with school performance.  
 
-https://github.com/smlit30/Project_Test/blob/main/school_art.jpg
+![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art.jpg)
+
 <img src="school_art"/>
 
 # Visuals for this Project
