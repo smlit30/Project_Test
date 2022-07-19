@@ -5,36 +5,41 @@ Project Revealing several factors & their impacts and/or correlations with schoo
 
 <img src="school_art"/>
 
-<datails>
+# Visuals for this Project
+Our first visual includeda layout of zip codes and the different district sizes.
+https://public.tableau.com/app/profile/spencer.litzau/viz/FP_Zip1_Trial/Sheet1
+
+<details open>
 <summary>Definitions for the factors we tested for.</summary>
-<br>
-    ## 1: Chronic Abseenteism
+<br/>
+<pre>
+## 1: Chronic Abseenteism
 
-    Number of students missing XX number of days per school per year.
+Number of students missing XX number of days per school per year.
 
-    ## 2: Average Teacher Salary
+## 2: Average Teacher Salary
 
-    Average salary of teachers in U.S. Dollars.   
+Average salary of teachers in U.S. Dollars.   
 
 
-    ## 3: Average Teacher Retention Rate
+## 3: Average Teacher Retention Rate
 
-    This is a measurement in each district of how many teachers stay from year over year within the district.  This is taken at the school level and averaged out. 
+This is a measurement in each district of how many teachers stay from year over year within the district.  This is taken at the school level and averaged out. 
 
-    ## 4: Average Administrator Salary
+## 4: Average Administrator Salary
 
-    Average salary that the administration makes in the district. 
+Average salary that the administration makes in the district. 
 
-    ## 5: Disrict Size
+## 5: Disrict Size
 
-    The classifications from district range from 
+The classifications from district range from 
 
-    - Small District ##'s
+- Small District ##'s
 
-    - Medium District ##'s
+- Medium District ##'s
 
-    - Large District ##'s
-</details>
+- Large District ##'s
+</pre>
 
 ## Results Summary
 
