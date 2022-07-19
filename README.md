@@ -4,7 +4,10 @@ Project Revealing several factors & their impacts and/or correlations with schoo
 
 ![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art.jpg)
 
-<img src="school_art"/>
+# Group Workflow
+
+![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/Workflow.jpg)
+
 
 # Visuals for this Project
 Our first visuals includeda layout of zip codes with their proficiency % of ELA & Math scores.
