@@ -25,6 +25,7 @@ Second Visual includes
 <summary>Definitions for the factors we tested for.</summary>
 <br/>
 <pre>
+
 ## 1: Chronic Abseenteism
 
 Number of students missing XX number of days per school per year.
@@ -52,6 +53,8 @@ Medium District ##'s
 
 Large District ##'s
 </pre>
+
+
 
 ## Results Summary
 
