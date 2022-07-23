@@ -1,7 +1,7 @@
 # School Performance Metrics
 
 <div id="header" align="center">
-    <img src="https://github.com/smlit30/Project_Test/blob/main/school_art3.jpg" width="100"/>
+    <img src="https://github.com/smlit30/Project_Test/blob/main/school_art3.jpg" width="900"/>
 </div>
 
 ## Objective
