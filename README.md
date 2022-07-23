@@ -15,12 +15,25 @@ The defintions for each factor tested are listed at the bottom of this page.
 
 Lastly the machine learning alogrithm testing will be detialed out as follows in this section.  
 
-
+Work In Progress:
 
 
 ## Group Workflow
 
 ![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/Workflow_7_22.jpg)
+
+### Extract
+For our data we found that best available data to test was from the Illinois State Board of Education.  We choose Illinois as the data was readily available, standardized and linked together through and RDTS number so that we could have a primary key to link everything together.  Initial thoughts were to include data from multiple states but the different reporting systems and metrics proved to be too high of a hurdle.  Thus Illinois was choosen as the state to run our test. 
+
+### Transform 
+While reviewing the data as shown through the "clean_data" notebook.  We choose factors that had enough data to test throughout the state.  "Enough" in this sense means any column that didn't have at least 750 data points for was dropped in the dataset.  The rest of the file goes through the process of joining the various tables on informaton from general school information, financial information & performance results. This was all gathered into one dataset so it could be reviewed easily and tested through Machine Learning. 
+
+### Load
+Once we finalized the dataframe it was then loaded in Amazon Web Services (AWS) in the form of a relational database.  This way the finalized dataframe could be downloaded publicly.  The dataframe was also sent into a CSV file on this github repository.
+
+### Visualize 
+Lastly various visuals were created to give any casual viewer a better understanding of what the data means, how to interpret it and hopefully some usefull insights on how to move forward in the future.  
+
 
 
 ## Visuals for this Project
