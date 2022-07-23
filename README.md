@@ -14,7 +14,7 @@ The defintions for each factor tested are listed at the bottom of this page.
 Lastly the machine learning alogrithm testing will be detialed out as follows in this section.  
 
 
-![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art1.jpg)
+![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art2.jpg)
 
 ## Group Workflow
 
@@ -44,7 +44,7 @@ We found the following results from our regression test on different school fact
 
 
 <details open>
-<summary>Definitions for the factors we tested for.</summary>
+<summary>**DEFINITIONS FOR TESTED FACTORS**</summary>
 <br/>
 <pre>
 
