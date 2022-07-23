@@ -1,5 +1,7 @@
 # School Performance Metrics
 
+![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art3.jpg)
+
 ## Objective
 The purpose of this project was to analyze which factors are most strongly correlated with student performance.  To get into the details here lets define what we consider performance for the students, the group of students analyzed and the data itself.    
 
@@ -14,7 +16,7 @@ The defintions for each factor tested are listed at the bottom of this page.
 Lastly the machine learning alogrithm testing will be detialed out as follows in this section.  
 
 
-![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art3.jpg)
+
 
 ## Group Workflow
 
@@ -42,9 +44,10 @@ https://public.tableau.com/app/profile/spencer.litzau/viz/FP_MP2_Trial/Sheet5
 We found the following results from our regression test on different school factors for performance.  
   
 
+## Definitions For Tested Factors
 
 <details open>
-<summary>**DEFINITIONS FOR TESTED FACTORS**</summary>
+<summary>DEFINITIONS DROP DOWN</summary>
 <br/>
 <pre>
 
