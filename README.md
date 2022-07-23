@@ -14,11 +14,11 @@ The defintions for each factor tested are listed at the bottom of this page.
 Lastly the machine learning alogrithm testing will be detialed out as follows in this section.  
 
 
-![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art.jpg)
+![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art1.jpg)
 
 ## Group Workflow
 
-![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/Workflow.jpg)
+![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/Workflow_7_22.jpg)
 
 
 ## Visuals for this Project
