@@ -1,6 +1,8 @@
 # School Performance Metrics
 
+<div id="header" align="center">
 ![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art3.jpg)
+</div>
 
 ## Objective
 The purpose of this project was to analyze which factors are most strongly correlated with student performance.  To get into the details here lets define what we consider performance for the students, the group of students analyzed and the data itself.    
