@@ -1,7 +1,7 @@
 # School Performance Metrics
 
 <div id="header" align="center">
-    ![FUN AT SCHOOL](https://github.com/smlit30/Project_Test/blob/main/school_art3.jpg)
+    <img src="https://github.com/smlit30/Project_Test/blob/main/school_art3.jpg" width="100"/>
 </div>
 
 ## Objective
