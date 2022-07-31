@@ -33,6 +33,12 @@ While reviewing the data as shown through the "clean_data" notebook.  We choose 
 ### Load
 Once we finalized the dataframe it was then loaded in Amazon Web Services (AWS) in the form of a relational database.  This way the finalized dataframe could be downloaded publicly.  The dataframe was also sent into a CSV file on this github repository.
 
+#### Database Layout
+
+The below layout is a visual for how our different databases are joined.  The RCDTS is the primary key for all four tables.  
+
+![data_tables](https://github.com/smlit30/Project_Test/blob/main/data_tables.jpg)
+
 ### Visualize 
 Lastly various visuals were created to give any casual viewer a better understanding of what the data means, how to interpret it and hopefully some usefull insights on how to move forward in the future.  
 
