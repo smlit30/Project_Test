@@ -126,4 +126,29 @@ Teacher Retention Rate - The three-year average of the percentage of full-time t
 </details>
 
 
+## Team Work Factors
 
+<details open>
+<summary>Communications & Presentations</summary>
+<br/>
+<pre>
+
+### Communications Protoctal
+
+How we coordinated this project. 
+
+To make sure all team members stayed on the same page we met at least four times a week.  Two for each of the class times during the week (including the office hours in case additional help was needed).  We met an hour prior to Saturday office hours so that we could coordinate any help needed from our TA's and again on Sundays if needed prior to submitting the weekly deliverable.  
+
+In person meetings were set up through Zoom calls between the four members. 
+
+We coordinated our meet ups and zoom calls through the slack app.  This allowed us to keep up with each others progress, ask questions and provide assitance as needed.  We had two channels, one of which was just the team members and the others were the team members and the TA's.  
+
+Project & coding communication was done through github where we could each upload our work where others could see it.  
+
+
+### Presentation Information
+
+https://docs.google.com/presentation/d/1sUJlMlsgifso6Dr9J_aTH_MecfJC7vevpyQWsx8IgJI/edit#slide=id.g13ee678766f_0_283
+
+</pre>
+</details>
