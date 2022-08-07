@@ -56,18 +56,22 @@ We used scikit-learn to split the data into four data sets (two being training s
 
 The following pictures show the follwing results between the Math & ELA results between the factors of class size and schools with low income families. 
 
+Class Size & ELA Scores
 <div id="header" align="center">
     <img src="https://github.com/smlit30/Project_Test/blob/main/class_size_ELA.jpg" width="500"/>
 </div>
 
+Class Size & Math Scores
 <div id="header" align="center">
     <img src="https://github.com/smlit30/Project_Test/blob/main/class_size_math.jpg" width="500"/>
 </div>
 
+School % of low income famlies & ELA Scores
 <div id="header" align="center">
     <img src="https://github.com/smlit30/Project_Test/blob/main/low_income_ELA.jpg" width="500"/>
 </div>
 
+School % of low income famlies & Math Scores
 <div id="header" align="center">
     <img src="https://github.com/smlit30/Project_Test/blob/main/low_income_math.jpg" width="500"/>
 </div>
