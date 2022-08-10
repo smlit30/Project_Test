@@ -54,6 +54,12 @@ The data can’t be divided into two separate categories because of the mass amo
 Description of how data was split into training and testing sets
 We used scikit-learn to split the data into four data sets (two being training sets and two being testing sets) and calculated a summary report. X would hold the independent variables and Y would hold the dependent variable. After getting our model.fit, scikit-learn calculates the Y_prediction which is used to get a summary report. The summary report consists of R squared score, mean squared error, and root mean squared error.
 
+The below is the R2 equation that was used to calculate how well the factors fit the model.  
+<div id="header" align="center">
+    <img src="https://github.com/smlit30/Project_Test/blob/main/equation.jpg" width="500"/>
+</div>
+
+
 The following pictures show the follwing results between the Math & ELA results between the factors of class size and schools with low income families. 
 
 Class Size & ELA Scores
@@ -66,16 +72,30 @@ Class Size & Math Scores
     <img src="https://github.com/smlit30/Project_Test/blob/main/class_size_math.jpg" width="500"/>
 </div>
 
-School % of low income famlies & ELA Scores
+School % of low income families & ELA Scores
 <div id="header" align="center">
     <img src="https://github.com/smlit30/Project_Test/blob/main/low_income_ELA.jpg" width="500"/>
 </div>
 
-School % of low income famlies & Math Scores
+School % of low income families & Math Scores
 <div id="header" align="center">
     <img src="https://github.com/smlit30/Project_Test/blob/main/low_income_math.jpg" width="500"/>
 </div>
 
+The remaining factors yielded the below results of our linear regression algorithm.  
+
+
+<div id="header" align="center">
+    <img src="https://github.com/smlit30/Project_Test/blob/main/lr_hs_results.jpg" width="500"/>
+</div>
+
+<div id="header" align="center">
+    <img src="https://github.com/smlit30/Project_Test/blob/main/lr_ds_results.jpg" width="500"/>
+</div>
+
+<div id="header" align="center">
+    <img src="https://github.com/smlit30/Project_Test/blob/main/lr_fn_results.jpg" width="500"/>
+</div>
 
 
 ### Visualize 
